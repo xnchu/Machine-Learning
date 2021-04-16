@@ -1,0 +1,7 @@
+Project Ideas-
+
+1. Automatic zoom in and out based on the distance using object detection.
+
+2. Partial Mask Detection using Deep Learning.
+
+3. Modelling Software Automation using NLP.
